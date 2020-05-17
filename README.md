@@ -1,4 +1,6 @@
 ## IronMan HUD - Microsoft Hololens
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeviprasad97%2FHololens_IronMan.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeviprasad97%2FHololens_IronMan?ref=badge_shield)
+
 
 Project made by students of Full Sail University at [REBL HQ](https://www.facebook.com/REBLHQ/) in collaboration with [Maker Studios](http://www.makerstudios.com/).
 
@@ -26,3 +28,7 @@ Special thanks:
 
  * [Origami](https://github.com/kaiomagalhaes/hololens-academy-101/tree/master/Origami) from Hololens Academy for gestures and voice commands
  * [Hololens Facial Recognition](https://github.com/UoA-eResearch/hololens_facial_recognition) for facial scanning and recognition
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeviprasad97%2FHololens_IronMan.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeviprasad97%2FHololens_IronMan?ref=badge_large)
